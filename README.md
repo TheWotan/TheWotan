@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheWotan
-- 👀 I’m interested in PHP
-- 🌱 I’m currently learning VueJS
+- 👀 I’m interested in PHP and JavaScript
+- 🌱 I’m currently learning VueJS, Nuxt3
 - 💞️ I’m looking to collaborate on making quizzes services
 
 <!---
